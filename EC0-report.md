@@ -9,32 +9,25 @@
 
 ## Answer
 
-The example figure below shows the growth in the number of websites between 1993 and 1996.
+The image below is the new ODU sign.
 
 ![ODU](images/cs432_image1.jpg)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
 ```python
-#!/usr/local/bin/python3
-# testargs.py
-
-import sys
-
-print ("{} is the name of the script." . format(sys.argv[0]))
-print ("There are {} arguments: {}" . format(len(sys.argv), str(sys.argv)))
-
-for ind, arg in enumerate(sys.argv):
-    print ("[{}]: {} {}".format(ind,arg,sys.argv[ind]))
+s = "Hello World!"
+print(s)
 ```
 
 The table below shows a simple table.  
 
 |Week|Date|Topic|
 |:---|:---|:---|
-|1|Sep 1, 3|Introduction, What's Vis and Why Do It?|
-|2|Sep 8, 10|Data and Data Cleaning|
-|3|Sep 15, 17|Marks and Channels|
+|1|Aug 23|Introduction to Web Science and Web Architecture|
+|2|Aug 30|Introduction to Python|
+|3|Sep 6|Measuring the Web|
+|4|Sep 13|Searching the Web|
 
 The table below shows an example confusion matrix (you'll see this term later) from <https://en.wikipedia.org/wiki/Confusion_matrix>.
 
