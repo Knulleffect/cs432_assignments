@@ -1,7 +1,7 @@
-# HW# - Title
-### Your Name
+# HW# - EC 0.6 - Reports
+### Martin Salisbury
 ### CS 432, Fall 2025
-### Due Date
+### 7 September 2025
 
 # Q1
 
