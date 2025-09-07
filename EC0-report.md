@@ -20,7 +20,7 @@ s = "Hello World!"
 print(s)
 ```
 
-The table below shows a simple table.  
+The table below shows the first 4 weeks of the class schedule.  
 
 |Week|Date|Topic|
 |:---|:---|:---|
@@ -51,5 +51,6 @@ The table below shows an example confusion matrix (you'll see this term later) f
 
 *Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.  These are just a couple examples.*
 
-* Stack Overflow, How can I parse (read) and use JSON in Python?, <https://stackoverflow.com/questions/7771011/how-can-i-parse-read-and-use-json-in-python>
-* ChatGPT conversation, Initial prompt: "write a python line to detect if a string ends with .png", <https://chat.openai.com/share/5de76e93-c26b-4665-a0fc-b782b01a9285>
+* "Web Science: An Interdisciplinary Approach to Understanding the Web", <https://cacm.acm.org/magazines/2008/7/5366-web-science/fulltext>
+* "Accessing the Deep Web", <http://dx.doi.org/10.1145/1230819.1241670>
+* "Architecture of the World Wide Web, Volume One", <https://www.w3.org/TR/webarch/>
